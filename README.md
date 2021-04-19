@@ -3,7 +3,7 @@
 
 | **_No._** | **_Aim_** |**_File_** |
 |    ---    |    --     |     --         | 
-|     1     | Learn following Data Structure: List, Dictionary, Dataframe         |   [__Pract1/*__](https://github.com/anujchaudhari/ML-Practs-SEM-6-/tree/main/Pract-1/Pract%201)            |
+|     1     | Learn following Data Structure: List, Dictionary, Dataframe         |   [__Pract1/Pract1*__](https://github.com/anujchaudhari/ML-Practs-SEM-6-/tree/main/Pract-1/Pract%201)            |
 |     2     | Implement Linear Regression |   [__Linear Regression.ipynb__](https://github.com/anujchaudhari/ML-Practs-SEM-6-/blob/main/Linear%20Regression.ipynb)   |
 |     3     | Implement Logistic Regression |  [__Logistic Regression.ipynb__](https://github.com/anujchaudhari/ML-Practs-SEM-6-/blob/main/Logstic%20Regression.ipynb)    |
 |     4     | Implement SVM classifier  |  [__SVM.ipynb__](https://github.com/anujchaudhari/ML-Practs-SEM-6-/blob/main/SVM.ipynb)   |
